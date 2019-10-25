@@ -1,4 +1,4 @@
-## Building ffmpeg 4.2.1 for MyTunes Music Player Pro:
+## Building FFMpeg 4.2.1 for MyTunes Music Player Pro
 
 These instructions explain how to build ffmpeg for use on an Android device with MyTunes
 Music Player Pro. Note that these instructions are for Linux only. You should be able to
