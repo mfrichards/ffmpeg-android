@@ -1,6 +1,6 @@
-## Building FFmpeg 4.2.1 for MyTunes Music Player Pro
+## Building FFmpeg 4.2.1 for AirTunes Music Player Pro
 
-These instructions explain how to build FFmpeg for use on an Android device with MyTunes
+These instructions explain how to build FFmpeg for use on an Android device with AirTunes
 Music Player Pro. Note that these instructions are for Linux only. You should be able to
 build it on Windows using Cygwin, however, I only do Android development on Linux, so do
 not ask about Windows.
@@ -24,7 +24,7 @@ not ask about Windows.
 To install the new FFmpeg shared libraries on your Android device, the device must be
 rooted and you must have access to the file system via the adb tool. Copy the new shared
 libraries (libavcodec.so, libavformat.so, libavutil.so, and libswresample.so) to
-"/data/data/com.whitestar.mytunespro3/lib" and restart MyTunes. The app will now be
+"/data/data/com.whitestar.mytunespro3/lib" and restart AirTunes. The app will now be
 using the new libraries.
 
 
